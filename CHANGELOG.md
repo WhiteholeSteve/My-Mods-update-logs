@@ -1,5 +1,24 @@
 # Change Log
 
+## [1.0.1] - 2022/09/6
+ 
+### Added
+Jessey Fox x2
+ 
+### Changed
+
+
+ 
+### Fixed
+
+
+
+
+### Known bugs
+
+Ace Millitary not getting damaged by EMP nor is it sparking
+
+
  
 ## [1.0] - 2022/09/6
  
