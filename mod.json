@@ -1,0 +1,18 @@
+{
+  "Name": "The Differences mod",
+  "Author": "BlackholeSteve/Synth",
+  "Description": "This is a story about Differences of humans and sub-humans, that pretend to be human.",
+  "ModVersion": "1.5",
+  "GameVersion": "1.21+",
+  "ThumbnailPath": "Thumb and picture.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "ArmorBehaviour.cs",
+    "CategoryBuilder.cs",
+    "mod.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2791063723"
+}
