@@ -4,9 +4,11 @@
  
 ### Added
 Jessey Fox x2
- 
+ new stabbing code for only Jessey fox and maybe golden armor fox
+
 ### Changed
 
+Silver foxes no longer break people apart when stabbing them
 
  
 ### Fixed
@@ -17,6 +19,8 @@ Jessey Fox x2
 ### Known bugs
 
 Ace Millitary not getting damaged by EMP nor is it sparking
+
+Silver fox jessey can't stab people
 
 
  
