@@ -1,5 +1,29 @@
 # Change Log
 
+## [1.0.1] - 2022/09/16
+ 
+### Added
+Sashley furry candy oc (I like it, Cute :3)
+custom hair for sashley.
+
+### Changed
+Some code in the stabbing code for jessy fox, still doesn't work.
+
+
+ 
+### Fixed
+
+
+
+
+### Known bugs
+
+Ace Millitary not getting damaged by EMP nor is it sparking
+
+Silver fox jessey can't stab people
+
+
+
 ## [1.0.1] - 2022/09/6
  
 ### Added
