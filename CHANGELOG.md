@@ -1,6 +1,6 @@
 # Change Log
 
-## [1.0.1] - 2022/09/16
+## [1.0.2] - 2022/09/16
  
 ### Added
 Sashley furry candy oc (I like it, Cute :3)
